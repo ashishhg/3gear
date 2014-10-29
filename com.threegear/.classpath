@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" output="mnt/ssd/tbr/Projets/gwt/gwt-maven-plugin/target/checkout/target/gwt-maven-plugin-2.7.0-beta1/WEB-INF/classes" path="src/main/java">
+	<classpathentry kind="src" output="target/com.threegear/WEB-INF/classes" path="src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" output="mnt/ssd/tbr/Projets/gwt/gwt-maven-plugin/target/checkout/target/gwt-maven-plugin-2.7.0-beta1/WEB-INF/classes" path="target/generated-sources/gwt">
-		<attributes>
-			<attribute name="optional" value="true"/>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="mnt/ssd/tbr/Projets/gwt/gwt-maven-plugin/target/checkout/target/gwt-maven-plugin-2.7.0-beta1/WEB-INF/classes" path="src/main/resources">
+	<classpathentry excluding="**" kind="src" output="target/com.threegear/WEB-INF/classes" path="src/main/resources">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -39,5 +33,5 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="output" path="mnt/ssd/tbr/Projets/gwt/gwt-maven-plugin/target/checkout/target/gwt-maven-plugin-2.7.0-beta1/WEB-INF/classes"/>
+	<classpathentry kind="output" path="target/com.threegear/WEB-INF/classes"/>
 </classpath>

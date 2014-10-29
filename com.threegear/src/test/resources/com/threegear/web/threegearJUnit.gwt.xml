@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="3gear">
+  <inherits name='com.threegear.web.3gear' />
+</module>
